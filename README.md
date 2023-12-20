@@ -1,15 +1,19 @@
-<div id="page-title" style="font-weight: 700; font-size: 300px;" align="center" >
-  <p style="font-weight: 700; font-size: 200px;">Hi I am Sam👋</p>
+<div id="page-title" align="center" >
+  <h1>Hi I am Sam👋</h1>
 </div>
 <br>
 <div id="header" style="display: flex" align="center">
 <!--   <img src="https://media.giphy.com/media/lqSDx8SI1916ysr4eq/giphy.gif" width="100"/> -->
-  <img src="https://github.com/samuelskim1/samuelskim1/assets/116222606/d3919412-892a-4204-86e7-413bc07f9aa6" width="400" height="400" />
+<!--   <img src="https://github.com/samuelskim1/samuelskim1/assets/116222606/d3919412-892a-4204-86e7-413bc07f9aa6" width="300" height="400" /> -->
+  <img src="https://github.com/samuelskim1/samuelskim1/assets/116222606/d226af93-6bc7-4bc1-a249-e9791a294e95" width="250" height="500" />
+<!--   <img src="https://github.com/samuelskim1/samuelskim1/assets/116222606/248d4fde-96c3-47f7-966c-17023c158ae7" width="300" height="400" /> -->
+
   
 </div>
 <div id="photo-holder" style="display: flex" align="center">
-  <img src="https://github.com/samuelskim1/samuelskim1/assets/116222606/3f035142-9265-442e-ab54-0d78c10063a9" width="200" height="200" />
-  <img src="https://github.com/samuelskim1/samuelskim1/assets/116222606/f13ddbf3-74ab-4d54-a41f-73699cbe5864" width="200" height="200" />
+<!--   <img src="https://github.com/samuelskim1/samuelskim1/assets/116222606/3f035142-9265-442e-ab54-0d78c10063a9" width="200" height="200" />
+  <img src="https://github.com/samuelskim1/samuelskim1/assets/116222606/f13ddbf3-74ab-4d54-a41f-73699cbe5864" width="200" height="200" /> -->
+
 </div>
 
 ---
@@ -18,8 +22,8 @@ Hello! I'm a recent graduate from App Academy's Software Engineer bootcamp. I'm 
 
 
 - 🔭 I’m currently working on **Moodify**
-- 💬 Ask me about my favorite artists and music genres
-- ⚡ Fun fact: I love watching and playing 🏐 and 🏀
+- 💬 Ask me about my favorite artists/music genres and games!
+- ⚡ Fun fact: I love watching and playing 🏐 and 🏀!
 
 
 ---

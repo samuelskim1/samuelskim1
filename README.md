@@ -57,7 +57,9 @@ Hello! I'm a recent graduate from App Academy's Software Engineer bootcamp. I'm 
   
 ### About Sam's GitHub ###
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelskim1)](https://github.com/anuraghazra/github-readme-stats)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelskim1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
   
 <!--
